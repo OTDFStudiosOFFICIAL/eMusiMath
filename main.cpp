@@ -2,7 +2,6 @@
 #include "Settings.h"
 #include "Title.h"
 #include "Game.h"
-#include "LanguageManager.h"
 #include "Setup.h"
 #include "OnlineMode.h"
 #include "SpriteRender.h"
